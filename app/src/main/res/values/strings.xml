@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Mytestapp</string>
+    <string name="image_description">image</string>
+    <string name="h_d_y_p_how">H D Y P</string>
+
+    <string name="h_d_y_p_korea1">그대들은 어떻게 주차할것인가?</string>
+    <!-- 기존 문자열 리소스 -->
+    <string name="h_d_y_p_how_description">Your Text Here</string>
+    <!-- strings.xml -->
+    <string name="h_d_y_p">H D Y P</string>
+
+    <string name="parkingtext1">주차하기</string>
+
+    <string name="windotext">이미 선택된 자리입니다.다시 선택해 주세요.</string>
+
+    <string name="yes">확인</string>
+    <string name="enter_a_message">Enter a message</string>
+    <string name="send">Send</string>
+    <string name="test">광고주세요</string>
+    <string name="addAd">광고</string>
+    <string name="numberInput">TODO</string>
+
+
+</resources>

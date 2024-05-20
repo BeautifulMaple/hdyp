@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1003581230810",
+    "firebase_url": "https://parking-f2b0d-default-rtdb.firebaseio.com",
+    "project_id": "parking-f2b0d",
+    "storage_bucket": "parking-f2b0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003581230810:android:6eaf8c2e659d70e731dfe3",
+        "android_client_info": {
+          "package_name": "com.example.mytestapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxC7iyL8AzhPqBKBWD1N6C_Qd-aPkzD-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
